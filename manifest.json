@@ -1,6 +1,6 @@
 {
-  "name": "Usa Travel Explorer",
-  "short_name": "Usa Travel Explorer",
+  "name": "USA Travel Explorer",
+  "short_name": "USA Travel Explorer",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
