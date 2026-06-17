@@ -1,0 +1,20 @@
+{
+  "name": "USA Travel Explorer",
+  "short_name": "USA Travel Explorer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://loremflickr.com/192/192/usa,travel",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://loremflickr.com/512/512/usa,travel",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
